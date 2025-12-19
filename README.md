@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=USMAN-TOOLS;CREATED+BY+USMAN;A+WHATSAPP+TOOL;UNLIMITED+USAGE" alt="Animated Typing SVG" />
 </p>
 
-# 🚀 RED CUP  
+# 🚀 Usman Tools Bot
 **Advanced WhatsApp Automation & Research Toolkit**  
 **Owner: Usman Tools**
 
@@ -35,14 +35,12 @@ pkg install imagemagick -y
 
 > Tip: If prompted with "Do you want to continue? [Y/n]", type y and press Enter. ✅
 
-
-
 ---
 
 Step 2: Clone Repo & Setup
 ```bash
-git clone https://github.com/4O4-INJECTOR/Red-cup
-cd Red-cup
+git clone https://github.com/spabdullahyt-create/Usman-Red-Cup
+cd Usman-Red-Cup
 termux-setup-storage
 ```
 Step 3: Install Node Modules
